@@ -1,1 +1,1 @@
-# CHIP-8 Emulator
+# Spotify-Govee Automation Software
