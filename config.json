@@ -1,9 +1,0 @@
-{
-    "govee_api_key": "06bf4eaf-dec7-4680-85bf-1307ca95e887",
-    "govee_device": "D4:AD:FC:22:4B:3B",
-    "govee_model": "H615C",
-    "spotify_client_id": "22b56a4cabfe44e686f4f4bcb24e3d22",
-    "spotify_client_secret": "8215e61e36f344d6853594a849b9e735",
-    "spotify_redirect_uri": "http://127.0.0.1:8888/callback"
-
-  }
